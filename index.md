@@ -1,7 +1,9 @@
 # Downloads
 
-- CPrefSQL implementation in Python
+- CPrefSQL implementation in Python 
 \([https://cprefsql.github.io/cprefsql/](https://cprefsql.github.io/cprefsql/)\)
+- CPrefSQLGen data generator and experiment orchestrator
+\([https://cprefsql.github.io/cprefsqlgen/](https://cprefsql.github.io/cprefsqlgen/)\)
 
 # Related Publications
 
